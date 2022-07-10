@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://open.spotify.com/playlist/3VW4DLMvBXYJPaO3Li4odA?si=f52b800586b444ca">
-    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=1DB954&style=flat" alt="Spotify" border="0">
+    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=7289DA&style=flat" alt="Spotify" border="0">
     </a>
 </p><br><br>
 
