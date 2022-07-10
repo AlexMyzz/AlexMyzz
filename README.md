@@ -1,4 +1,4 @@
-# Hiya! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50">
+# Hiya! <img src="https://cdn.discordapp.com/emojis/979248152097984572.gif" width="50">
 <br> So I basically code for fruit snacks, run like a top tier S+ bot, learn new things all the time, then call it working!</br>
 <br>I also play LoL in my spare time!</br>
 
