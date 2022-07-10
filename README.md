@@ -11,16 +11,9 @@
 
 <p align="center">
     <a href="https://discord.com/rn54XtysbU">
-    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=b85ced&style=flat" alt="Discord" border="0">
-    </a>
-    <a href="https://discord.com/rn54XtysbU">
-    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=b85ced&style=flat" alt="Discord" border="0">
+    <img align="center" src="https://img.shields.io/static/v1?label=Playlist&message=Nitro%238000&color=1DB954&style=flat" alt="Spotify" border="0">
     </a>
 </p><br><br>
-
-<a type="hidden" href="https://github.com/110nitro">
-    <img align="center" src="https://s11.flagcounter.com/mini/Nitro/bg_D138FF/txt_FFFFFF/border_74BDFC/flags_0/" alt="GithubCounter" border="0">
-    </a>
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
