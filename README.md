@@ -2,17 +2,20 @@
 <br> So I basically code for fruit snacks, run like a top tier S+ bot, learn new things all the time, then call it working!</br>
 <br>I also play LoL in my spare time!</br>
 
-<a href="https://discord.com/rn54XtysbU">
-    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=blue&style=flat" alt="Discord" border="0">
-</a><br><br>
+
 
 <h2 align="center">Highlights</h2>
 <p align="center" href="https://github.com/110nitro?tab=repositories">
     <img align="center" src="https://66.media.tumblr.com/6cc79ee8558da20065b91ef53ff9887d/tumblr_o1odz9l6Y01soctdjo1_540.gifv" alt="FLCL" border="0">
 </p>
 
-<p align="center" href="https://github.com/110nitro">
+<p align="center">
+    <a href="https://github.com/110nitro">
     <img align="center" src="https://s11.flagcounter.com/mini/Nitro/bg_D138FF/txt_FFFFFF/border_74BDFC/flags_0/" alt="GithubCounter" border="0">
+    </a>
+    <a href="https://discord.com/rn54XtysbU">
+    <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Nitro%238000&color=b85ced&style=flat" alt="Discord" border="0">
+    </a><br><br>
 </p>
 
 <h2 align="center">Stats</h2>
