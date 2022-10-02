@@ -1,4 +1,4 @@
-# Hiya! <img src="https://cdn.discordapp.com/emojis/979248152097984572.gif?size=96&quality=lossless" width="25">
+# Hiya! <img src="https://media.discordapp.net/attachments/969323475925893193/1025987849973145730/Joy.png?size=110&quality=lossless" width="30">
 <br> So I basically code for fruit snacks, run like a top tier S+ bot, learn new things all the time, then call it working!</br>
 <br>I also play LoL in my spare time!</br>
 
